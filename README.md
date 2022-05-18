@@ -1,6 +1,6 @@
 ### Olá, eu sou a Larissa K.S 👋
 
-- 🔭 Cursando Engenharia de Software ...
+- 🔭 Estudando Engenharia de Software
 - 💜Pronouns: Ela/Dela
 
 <div align="center">
