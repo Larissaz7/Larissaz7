@@ -1,4 +1,4 @@
-### Olá, eu sou a Larissa K.S 👋
+### Olá mundo, eu sou a Larissa K.S 👋
 
 - 🔭 Estudando Engenharia de Software
 - 💜Pronouns: Ela/Dela
