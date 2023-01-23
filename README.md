@@ -1,7 +1,7 @@
 ### Olá mundo, eu sou a Larissa K.S 👋
 
 - 🔭 Estudando Engenharia de Software
-- 💜Pronouns: Ela/Dela
+
 
 <div align="center">
   <a href="https://github.com/Larissaz7">
