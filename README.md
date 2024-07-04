@@ -3,7 +3,7 @@
 - 🔭 Estudando Engenharia de Software
 
 
-
+<img width= 100% bottom=50px src ="https://github.com/Larissaz7/Larissaz7/assets/104332861/bb735856-45a8-424e-9799-b22644eb2b57">
 
                
   <a href="https://github.com/Larissaz7/github-readme-stats">
