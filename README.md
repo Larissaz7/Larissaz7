@@ -1,4 +1,4 @@
-<img width= 100% bottom=50px src="https://github.com/Larissaz7/Larissaz7/assets/104332861/ab3bbd73-55da-4c58-92e9-38f444f8d1a6">
+<!--<img width= 100% bottom=50px src="https://github.com/Larissaz7/Larissaz7/assets/104332861/ab3bbd73-55da-4c58-92e9-38f444f8d1a6"> -->
 <br>
 <br>
 <br>
