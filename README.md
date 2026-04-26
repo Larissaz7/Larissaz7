@@ -1,12 +1,17 @@
 <div align="center">
 
 
-  [![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Fira+Code&pause=1000&color=F71DCC&random=false&width=435&lines=Seja+bem-vindo(a)+aqui!)](https://git.io/typing-svg)
+[![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Fira+Code&pause=1000&color=2790F7&random=false&width=435&lines=Seja+bem-vindo(a)+aqui!)](https://git.io/typing-svg)
+<p align="center">
+ 
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/igglybuff.gif" alt="Igglybuff">
+</p>
 
   <p>
     📍 <b>UFC - Campus Quixadá</b> | DEV | QA & Processos 
   </p>
 </div>
+
 
 ---
 
@@ -20,12 +25,10 @@ Atualmente sou graduanda em **Engenharia de Software** pela Universidade Federal
 
 ### 🛠️ Skills & Tools
 
-<p align="center">
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" alt="Pikachu">
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/igglybuff.gif" alt="Igglybuff">
-</p>
+
 
 <!-- <div align="center" style="gap: 15px;">
+ <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" alt="Pikachu"> <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" alt="Pikachu">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET"/>&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>&nbsp;
@@ -39,9 +42,10 @@ Atualmente sou graduanda em **Engenharia de Software** pela Universidade Federal
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Larissaz7&theme=jolly&card_width=600" alt="GitHub Streak" />
-</div>
+ 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=spin&theme=sea&hide_border=true" alt="GitHub Streak" /></a>
 
+</div>
 ---
 
 ### 📫 Vamos nos conectar?
